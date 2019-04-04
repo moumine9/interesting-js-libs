@@ -4,7 +4,7 @@ Through my experience as web dev, I found out some interesting javascript librar
 
 ___
 
-## Ui stuffs
+### Ui stuffs
 
 - [Labella.js](http://twitter.github.io/labella.js/)
 
@@ -22,7 +22,7 @@ ___
 
 ___
 
-## Utility librariries
+### Utility librariries
 
 - [ Lodash -A modern JavaScript utility library delivering modularity, performance & extras.](https://lodash.com/docs/4.17.4)
 
@@ -31,7 +31,7 @@ ___
 - [Zepto.Js : minimalist JavaScript library for modern browsers with a largely jQuery-compatible API](https://zeptojs.com/)
 ___
 
-## Specific purpose
+### Specific purpose
 
 - [JsBarcode - Barcode generator written in JavaScript](https://lindell.me/JsBarcode/)
 
@@ -47,7 +47,7 @@ ___
 
 ___
 
-## Practical part of it.
+### Practical part of it.
 
 - [The State Of JavaScript 2018](https://stateofjs.com/)
 
@@ -55,7 +55,7 @@ ___
 
 ___
 
-## NodeJS ressources
+### NodeJS ressources
 
 - [Nightwatch.js | Node.js powered End-to-End testing framework](http://nightwatchjs.org/)
 
