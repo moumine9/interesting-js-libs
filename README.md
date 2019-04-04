@@ -28,6 +28,7 @@ ___
 
 - [Underscore - JavaScript library that provides a whole mess of useful functional programming helpers](https://underscorejs.org/)
 
+- [Zepto.Js : minimalist JavaScript library for modern browsers with a largely jQuery-compatible API](https://zeptojs.com/)
 ___
 
 ## Specific purpose
